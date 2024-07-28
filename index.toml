@@ -136,11 +136,6 @@ hash = "89f7693f7a01cff27f51b9b68a4fdfec49a59177b1e1e173bbcaef06f892d7e7"
 metafile = true
 
 [[files]]
-file = "mods/terrablender.pw.toml"
-hash = "99ae3a898041d9e7b6d2de55909287baacd6f71846e44f61f6a9420587fd7a09"
-metafile = true
-
-[[files]]
 file = "mods/terralith.pw.toml"
 hash = "e4ec2a3489da9a8cf2b16abfbca6d62ef3dd0c6112d16d939641c16c5a796bea"
 metafile = true

@@ -96,6 +96,11 @@ hash = "aa1e63de697ec8db39b302c9bd21f78fde021dd0040d9162618c06c552bc0d04"
 metafile = true
 
 [[files]]
+file = "mods/dungeon-difficulty.pw.toml"
+hash = "5c73f41df9ce3a93881cc43eb2f25d623ab3ef14cca6a31df3ccbb2d974428b8"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "67f86fbf1f85c1bb895d12c81bc6546befdc1b5f2016e50f25e90f4738e28aea"
 metafile = true

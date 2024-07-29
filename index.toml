@@ -81,6 +81,11 @@ hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
 metafile = true
 
 [[files]]
+file = "mods/do-api.pw.toml"
+hash = "aa1e63de697ec8db39b302c9bd21f78fde021dd0040d9162618c06c552bc0d04"
+metafile = true
+
+[[files]]
 file = "mods/extra-rpg-attributes.pw.toml"
 hash = "c03d4d4c5144530722aeb1be6771e4e623f36a004a8c7fe00b7195311ce063ca"
 metafile = true
@@ -118,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/kambrik.pw.toml"
 hash = "a6d6587d3a6d9e1cc905c2b92c651b8fa9dea764ef29918de24c64fd51aa0587"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-bloomingnature.pw.toml"
+hash = "66879dce45edc29d89b9b82606aa4402b301ccf43f40a8fc8cb564ed6ab9a164"
 metafile = true
 
 [[files]]
@@ -193,6 +203,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/universal-shops.pw.toml"
+hash = "cb535a40d631ed67f69d317ffa0d77213ca83b726d2838331c4912a02640039d"
 metafile = true
 
 [[files]]

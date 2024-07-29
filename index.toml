@@ -31,6 +31,11 @@ hash = "77e7285a96a1927ea7db69b80283ed3a24c1ee145ad92360e1bc0d6b632005f9"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "6a4e4b9450aa618bd27346ec81d88231594ac487175c610e2106a6ccfdbce2d7"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
 metafile = true
@@ -48,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/betternether.pw.toml"
 hash = "d1a9663f1984c580facd4f217dc45ef1df0030776c0c773e03b573469405e052"
+metafile = true
+
+[[files]]
+file = "mods/bodies-bodies.pw.toml"
+hash = "a2adc95904d84c8d63c964f965827a1a34b413670a8b8deef1029ced76e93818"
 metafile = true
 
 [[files]]
@@ -86,6 +96,11 @@ hash = "aa1e63de697ec8db39b302c9bd21f78fde021dd0040d9162618c06c552bc0d04"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "67f86fbf1f85c1bb895d12c81bc6546befdc1b5f2016e50f25e90f4738e28aea"
+metafile = true
+
+[[files]]
 file = "mods/extra-rpg-attributes.pw.toml"
 hash = "c03d4d4c5144530722aeb1be6771e4e623f36a004a8c7fe00b7195311ce063ca"
 metafile = true
@@ -101,8 +116,18 @@ hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
+file = "mods/fabricquilt-chunk-pregenerator.pw.toml"
+hash = "ad55a3bef3e1462398a42e562b6c74bda337037c2da74eaa0b7380fe91d3f1f1"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
@@ -171,6 +196,11 @@ hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "82180c5afb4bafeee1b8296b51d71fa59400368683d85433a11725739a3d85df"
+metafile = true
+
+[[files]]
 file = "mods/ranged-weapon-api.pw.toml"
 hash = "cbff9574beec124a49e11833fd3a4cb1f7d45542cdb26afda6a2b002c518e0d2"
 metafile = true
@@ -233,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/universal-shops.pw.toml"
 hash = "cb535a40d631ed67f69d317ffa0d77213ca83b726d2838331c4912a02640039d"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "7850317938a0baec5c66aef8a3bb0b253221c578e29c3c0afc4a3b7f7ce62fac"
 metafile = true
 
 [[files]]

@@ -101,6 +101,11 @@ hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
 file = "mods/gazebos.pw.toml"
 hash = "73adf4687bfd853b4579e9ec0211582292b209f0570cbc626b803bf0fae02cdc"
 metafile = true
@@ -131,8 +136,18 @@ hash = "66879dce45edc29d89b9b82606aa4402b301ccf43f40a8fc8cb564ed6ab9a164"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
 file = "mods/man-of-many-planes.pw.toml"
 hash = "3b92cebe97fe4c46fad28178fc1027c42ddbaf13ad2b541aa9b7516a4aa45fc1"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "f6939dfffd06e01959bb07d1a4896333dacf08b7d284761acacd4d436a581bcf"
 metafile = true
 
 [[files]]
@@ -173,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/shield-api.pw.toml"
 hash = "4035c4dac9d38314c53ed5009f340a4c3fd2abe5fcf93c8ce9e4ef6e022856dc"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
 metafile = true
 
 [[files]]

@@ -51,8 +51,18 @@ hash = "d1a9663f1984c580facd4f217dc45ef1df0030776c0c773e03b573469405e052"
 metafile = true
 
 [[files]]
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "31a75fd95d5c670301f8f135ae702e6913a43a7605a28e44425f4838b30f338e"
+metafile = true
+
+[[files]]
 file = "mods/bountiful.pw.toml"
 hash = "82a31265d90c885eadccd59c2a35ef795fd526865091243933d52717ef1db4be"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
 metafile = true
 
 [[files]]
@@ -121,6 +131,11 @@ hash = "bbc45f671b446c7c341775e6f30f6585f8c519fc41308e834ded56e4d1c03f88"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "f811a02944223f535532a839386962dd8708e2aed1037ce6081968e67a2932d3"
 metafile = true
@@ -173,11 +188,6 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "89f7693f7a01cff27f51b9b68a4fdfec49a59177b1e1e173bbcaef06f892d7e7"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "e4ec2a3489da9a8cf2b16abfbca6d62ef3dd0c6112d16d939641c16c5a796bea"
 metafile = true
 
 [[files]]
